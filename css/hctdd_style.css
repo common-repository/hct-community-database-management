@@ -1,0 +1,4 @@
+.hctdd_row {	margin-bottom: 5px; height: 30px; }
+.hctdd_label { display:block; width:20%; float:left; }
+.hctdd_input { display:block; width:80%; float:left; }
+.hctdd_input input { width: 25%;}
